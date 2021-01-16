@@ -2,6 +2,7 @@
 
 **Project Version 1.0.0** 
 
+**Unity Version 2018.3.14f1** 
 * Unity Game written in C# 
 
 ---
