@@ -1,5 +1,7 @@
 # VaporDude
 
+Vapor Dude is a 2D sidescrolling game built for PC. 
+
 **Project Version 1.0.0** 
 
 * Unity Game written in C# 
