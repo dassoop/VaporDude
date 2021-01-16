@@ -10,3 +10,7 @@
 ### Plugins/Middleware ###
 * AStar Path Finding Project - https://arongranberg.com/astar/
 * DarkTonic MasterAudio - https://assetstore.unity.com/packages/tools/audio/master-audio-aaa-sound-5607
+
+---
+# License & Copyright
+© 2020
